@@ -1,6 +1,6 @@
 # Selected GitHub Terms of Serivce
 Selections from [the official documentation site](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
-Effective date: November 16, 2020
+Effective date: November 16, 2020. These selections do not override the current version of the GitHub Terms of Serivce.
 
 ## A. Definitions
 4. “Content” refers to content featured or displayed through the Website, including without limitation code, text, data, articles, images, photographs, graphics, software, applications, packages, designs, features, and other materials that are available on the Website or otherwise available through the Service. "Content" also includes Services. “User-Generated Content” is Content, written or otherwise, created or uploaded by our Users. "Your Content" is Content that you create or own.
