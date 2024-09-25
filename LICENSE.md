@@ -1,5 +1,5 @@
 # Selected GitHub Terms of Serivce
-Selections from [the official documentation site)[https://docs.github.com/en/site-policy/github-terms/github-terms-of-service]
+Selections from [the official documentation site](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service)
 Effective date: November 16, 2020
 
 ## A. Definitions
